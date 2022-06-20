@@ -1,0 +1,23 @@
+{
+  "name": "typescript-class",
+  "version": "1.0.0",
+  "description": "Exercitando Typescript para assimilação dos conteúdos aprendidos.",
+  "main": "third-challenge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GUIMEDICI/typescript-class.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GUIMEDICI/typescript-class/issues"
+  },
+  "homepage": "https://github.com/GUIMEDICI/typescript-class#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
